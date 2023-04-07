@@ -1,0 +1,22 @@
+{
+  "username": "appkpop",
+  "album": ["nct dream", "mark","renjun","jeno","haechan","jaemin","chenle","jisung"],
+  "init_jumlah_photo": 1000,
+  "admob_banner_id": "ca-app-pub-6690819082133499/3052893302",
+  "admob_interstitial_id": "ca-app-pub-6690819082133499/3595270042",
+  "admob_native_id": "ca-app-pub-6690819082133499/5912605337",
+  "admob_rewarded_id": "ca-app-pub-9160001534541342/4341294361",
+  "admob_rewarded_interstitial_id": "ca-app-pub-9160001534541342/7983643010",
+  "admob_open_app_id": "ca-app-pub-6690819082133499/8113648293",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "jago",
+  "admob_hpk_3": "telkomsel",
+  "admob_hpk_4": "jenius",
+  "admob_hpk_5": "bts",
+  "startapp_app_id": "209799067",
+  "unity_id": "4985965",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 5,
+  "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
+}
